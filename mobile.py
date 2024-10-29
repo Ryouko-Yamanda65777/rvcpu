@@ -2,7 +2,7 @@ import gradio as gr
 import os
 import numpy as np
 from pydub import AudioSegment
-from rvcpu import VoiceClone
+from rvc import VoiceClone
 import argparse
 import shutil
 parser = argparse.ArgumentParser()
