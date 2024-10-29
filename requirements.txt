@@ -8,3 +8,6 @@ fairseq==0.12.2
 numpy==1.23.5
 av
 pydub
+PySimpleGUI
+
+
